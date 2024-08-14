@@ -1,6 +1,7 @@
 # Posgrado_Estadistica_2024
 Material del curso de estadística y diseño experimental 
 
+
 #Contenido
 
 
