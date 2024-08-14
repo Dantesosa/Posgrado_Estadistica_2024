@@ -7,3 +7,4 @@ Material del curso de estadística y diseño experimental
 
 - Semana1:Introducción
 - Semana2:Creación de repositorio Github
+- Semana3:Proxima semana
