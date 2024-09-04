@@ -84,6 +84,15 @@ t.test(conjunto$Diametro, mu = 16.4)
 prod <- read.csv("produccion.csv", header=T)
 
 
+boxplot(prod$Kgsem ~ prod$Tiempo)
+
+
+t.test(prod$Kgsem ~ prod$Tiempo, paired=T)
+
+#El codigo paired =true se refiere a que es una prueba de t dependiente
+
+
+tapply(prod$Kgsem , prod$Tiempo, mean)
 
 
 
