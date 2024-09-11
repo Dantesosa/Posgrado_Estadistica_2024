@@ -14,7 +14,8 @@ Material del curso de estadística y diseño experimental
 - Semana4:Estadística paramétrica
 
 - Semana5:Pruebas t dependiente e independiente
--
+
+-Semana 6: Práctica de aceptación de hipótesis, prueba de Anova y tukey 
 -
 -
 -

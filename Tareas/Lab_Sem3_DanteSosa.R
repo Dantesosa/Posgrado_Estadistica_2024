@@ -61,6 +61,7 @@ bartlett.test(SpFH$Diametro, SpFH$Especie)
 
 
 
+
 #Prueba de t independientes
 
 t.test(SpFH$Diametro ~ SpFH$Especie, var.equal = TRUE)
