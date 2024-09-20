@@ -8,7 +8,7 @@ madera <- read.csv(met.url, header = T)
 # Establecimiento de hipótesis --------------------------------------------
 # H0 no existe diferencia entre la media del peso entre especies 
 # H1 existe diferencia entre la media del peso entre especies 
-
+  
 gavia<- subset(madera, madera$Especie =="Gavia")
 barreta<- subset(madera, madera$Especie =="Barreta")
 
