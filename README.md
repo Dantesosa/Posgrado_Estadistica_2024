@@ -17,7 +17,7 @@ Unidad de Aprendizaje: Diseño Experimental y Análisis de Datos.
 
 - 5.- 04.09.24 Pruebas t dependiente e independiente
 
-- 6.- 09.09.24 Práctica de aceptación de hipótesis, prueba de Anova y tukey. 
+- 6.- 11.09.24 Práctica de aceptación de hipótesis, prueba de Anova y tukey. 
 - 7.- 18.09.24 Correlación y Regresión Lineal. 
 - 8.- 25.09.24 Examen de estadística
 
