@@ -7,17 +7,17 @@ Unidad de Aprendizaje: Diseño Experimental y Análisis de Datos.
 #Desarrollo del curso
 
 
-- Semana1:Introducción
+- 1: 14.08.24 Introducción al curso de estadística.
 
-- Semana2:Creación de repositorio Github
+- 2: 21.08.24 Creación de repositorio en la nube de Github.
 
-- Semana3:Proxima semana
+- 3:28.08.24 Se realizó un laboratorio a manera de práctica sobre inspecciones realizadas por PROFEPA.
 
-- Semana4:Estadística paramétrica
+- 4: 04.09.24 Introducción a la estadística paramétrica.
 
-- Semana5:Pruebas t dependiente e independiente
+- 5:04.09.24 Pruebas t dependiente e independiente
 
-- Semana 6: Práctica de aceptación de hipótesis, prueba de Anova y tukey 
-- Semana 7: Correlación y Regresión Lineal 
-- Semana 8: Examen de estadística
+- 6: 09.09.24 Práctica de aceptación de hipótesis, prueba de Anova y tukey. 
+- 7: 18.09.24 Correlación y Regresión Lineal. 
+- 8:25.09.24 Examen de estadística
 
