@@ -18,8 +18,4 @@ Material del curso de estadística y diseño experimental
 - Semana 6: Práctica de aceptación de hipótesis, prueba de Anova y tukey 
 - Semana 7: Correlación y Regresión Lineal 
 - Semana 8: Examen de estadística
--
--
--
-
 

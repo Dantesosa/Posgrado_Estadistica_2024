@@ -29,6 +29,11 @@ plot(edad$DAP, edad$EDAD, pch = 25, xlab = "Diámetro", ylab= "EDAD", col = "Blu
 abline(edad.lm, col = "red")
 text(10,120, "Y = -8.4 * 2.43 (X)")
 
+#plot es para poner la distribución de los datos y abline es para agregar la línea central 
+# Text es para agregar la fórmula de regresión 
+
+
+
 
 edad.lm$coefficients
 edad.lm$residuals
