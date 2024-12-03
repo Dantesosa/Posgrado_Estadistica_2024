@@ -1,8 +1,10 @@
 # Posgrado_Estadistica_2024
-Material del curso de estadística y diseño experimental 
+Dante Siboldi Sosa Álvarez 1843694
+Producto Integrador del Aprendizaje
+Unidad de Aprendizaje: Diseño Experimental y Análisis de Datos.
 
 
-#Contenido
+#Desarrollo del curso
 
 
 - Semana1:Introducción
